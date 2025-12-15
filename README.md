@@ -2,6 +2,8 @@
 
 ターミナルで動作する42の課題であるpush_swapという課題のvisualizerです。
 
+https://github.com/user-attachments/assets/2769b487-1823-47ff-8622-84b0922cecfc
+
 ## 特徴
 
 - 🪟 **画面リサイズ対応**: ターミナルのサイズ変更に自動対応
